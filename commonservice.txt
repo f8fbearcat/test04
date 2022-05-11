@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 a branch added
+=======
+b-branch added
+>>>>>>> b_branch
